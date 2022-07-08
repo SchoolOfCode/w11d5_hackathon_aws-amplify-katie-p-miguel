@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactamplified",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\katie\\Documents\\SchoolOfCode\\Week11\\w11d5_hackathon_aws-amplify-katie-p-miguel\\react-amplified\\amplify\\backend\\api\\reactamplified\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-07-15T10:47:57.697Z",
+      "keyDescription": "demo"
+    }
+  }
+}
